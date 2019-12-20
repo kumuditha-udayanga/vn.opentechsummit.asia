@@ -192,3 +192,7 @@
 #myBtn:hover {
     background-color: transparent;
 }
+/*Fix profile card overlayer width*/
+.speaker .hover-state{
+  width: 300px;
+}
